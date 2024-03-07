@@ -6,4 +6,4 @@ Content focus on:
     - Understanding the Detection Algorithms like Object Detection, Landmark Detection which are Bounding Box Predictions, Anchor Boxes, YOLO Algorithms, and Semantic Segmentations
 
 The Certificate   
-![Alt text](https://github.com/J3rryTr/Coursera_DL_Specialization/blob/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/c3.png)
+![Alt text](https://github.com/J3rryTr/Coursera_DL_Specialization/blob/main/C4%20-%20Convolutional%20Neural%20Networks/C4.png)
