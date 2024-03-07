@@ -1,4 +1,4 @@
-** Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**    
+**Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**    
 
 Learning how to reduce overfiting, and understanding Hyperparameter, Regularization, and Optimization    
 Focus on content course:
@@ -9,4 +9,4 @@ Focus on content course:
 
 # The Certificate    
 
-![Alt text](https://github.com/J3rryTr/Coursera_DL_Specialization/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/C2.png)
+![Alt text](https://github.com/J3rryTr/Coursera_DL_Specialization/blob/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%20Regularization%20and%20Optimization/C2.png)
